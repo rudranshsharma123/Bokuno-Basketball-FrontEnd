@@ -1,5 +1,6 @@
 # Bokuno-Basketball-FrontEnd
 
+## The Backend is made using Jina, which is a cloud-native neural search framework for 𝙖𝙣𝙮 kind of data. Visit the <a href="https://github.com/jina-ai/jina">GitHub</a> repo
 
 
 ## Backend steps (in case you are here before doing the backend)
